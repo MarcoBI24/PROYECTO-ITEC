@@ -1,0 +1,195 @@
+body{
+    background-color: rgb(48, 71, 87);
+    color: rgb(197, 201, 206);
+  }
+  header{
+
+    background-color: rgb(63, 122, 199);
+    position: sticky;
+    border-radius: 15px;
+    
+    filter: drop-shadow(0px 1px 5px #75777a);
+    height: 100px;
+
+    width: auto;
+    top: -5px;
+    z-index: 9;
+    
+}
+
+nav ul{
+    
+    position: relative;
+    font-size: 30px;
+    list-style: none;
+    margin-top: -25px;
+    right: 280px;
+    
+    
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    display: inline-block;
+    
+  }
+
+  #logo{
+    position: relative;
+    display: inline-block;
+    top: 15px;
+    left: 280px;
+    width: 70px;
+}
+#inicio{
+   display: inline;
+    position: relative;
+    left: 900px;
+    top: -52px;
+    font-family: 'Gruppo',cursive;
+    font-weight: 500;
+}
+#pagina1{
+  display: inline-block;
+  position: relative;
+  left: 1000px;  
+  top: -55px;
+  font-family: 'Gruppo',cursive;
+  font-weight: 500;
+  
+}
+#pagina2{
+  display: inline-block;
+  position: relative;
+  left: 1100px;  
+  top: -55px;
+  font-family: 'Gruppo',cursive;
+  font-weight: 500;
+}
+#pagina3{
+  display: inline-block;
+  position: relative;
+  left: 1200px;  
+  top: -55px;
+  font-family: 'Gruppo',cursive;
+  font-weight: 900;
+  text-shadow: 0px 0px 5px #ada79d;
+}
+/* fin del header y el nav */
+/* INICIO DE SECTION */
+section{
+    position:relative;
+    top: 50px;
+    font-family:'Special Elite', cursiva;
+    font-size: 25px;
+    
+}
+dt{
+    font-size: 25px;
+    font-weight: 700;
+}
+dd{
+    font-size: 18px;
+    font-family: 'Gruppo',cursive;
+}
+textarea{
+    /* position: relative;*/
+    background:rgb(25, 124, 190);
+    border-color: rgb(17, 148, 235);
+    border-style: solid;
+    border-radius: 15px;
+    box-shadow: 1px 2px 3px #49443d;
+    
+    font-size: 20px;
+    text-align: left;
+    color: #bebdbd; 
+    font-size: 40px;
+    font-family: 'Special Elite',cursiva;
+    position: relative;
+    left: 200px;
+    width: 1143px;
+    height: 376px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(245, 247, 250);
+
+}
+h1:hover{
+    text-shadow: 5px 10px 7px rgb(14, 193, 199);
+  }
+.mayusculas-data{
+    color: rgb(0, 255, 213);
+    font-size: 25px ;
+  }
+.mayusculas{
+    color: rgb(1, 161, 253);
+    font-size: 35px;
+  }
+.signos{
+    color: rgb(54, 209, 183);
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* inicio del footer */
+.linea{
+    position: relative;
+    top: 100px;
+    width: auto;
+    height: 1px;
+    background: #13a0d8;
+
+}
+footer{
+    font-family:'Special Elite', cursiva;
+    display: inline-block;
+    position: relative;
+}
+
+.ganadorCopy{
+    position: relative;
+    left: 1200px;
+    font-size: 15px;
+  }
+footer ul a{
+      text-decoration: none;
+      font-size: 20px;
+      position: relative;
+      display: inline-block;
+      color: #969390; 
+}
+footer ul{
+    position: relative;
+    top: -50px;
+  }
+footer ul #indice{
+  
+    display: inline-block;  
+    position: relative;
+    top: -20px;
+}
+h3{
+    margin-top: 2px;
+    
+}
+footer{
+    position: relative;
+    top: 100px;
+    
+}
+/* fin del footer */

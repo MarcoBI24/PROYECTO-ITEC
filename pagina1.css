@@ -1,0 +1,219 @@
+/* inicio del header y del nav */
+body{
+    background-color: rgb(48, 71, 87);
+    color: rgb(197, 201, 206);
+  }
+header{
+
+    background-color: rgb(63, 122, 199);
+    position: sticky;
+    border-radius: 15px;
+    
+    filter: drop-shadow(0px 1px 5px #75777a);
+    height: 100px;
+
+    width: auto;
+    top: -5px;
+    z-index: 9;
+    
+}
+
+nav ul{
+    
+    position: relative;
+    font-size: 30px;
+    list-style: none;
+    margin-top: -25px;
+    right: 280px;
+    
+    
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    display: inline-block;
+    
+  }
+
+#logo{
+    position: relative;
+    display: inline-block;
+    top: 15px;
+    left: 280px;
+    width: 70px;
+}
+#inicio{
+   display: inline;
+    position: relative;
+    left: 900px;
+    top: -52px;
+    font-family: 'Gruppo',cursive;
+    font-weight: 500;
+}
+#pagina1{
+  display: inline-block;
+  position: relative;
+  left: 1000px;  
+  top: -55px;
+  font-family: 'Gruppo',cursive;
+  font-weight: 900;
+  text-shadow: 0px 0px 5px #ada79d;
+  
+}
+#pagina2{
+  display: inline-block;
+  position: relative;
+  left: 1100px;  
+  top: -55px;
+  font-family: 'Gruppo',cursive;
+  font-weight: 500;
+}
+#pagina3{
+  display: inline-block;
+  position: relative;
+  left: 1200px;  
+  top: -55px;
+  font-family: 'Gruppo',cursive;
+  font-weight: 500;
+}
+/* fin del header y el nav */
+/* inicio de secticion y el articulo */
+section{
+    font-family:  'Special Elite', cursiva;
+    text-align: left;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(245, 247, 250);
+
+}
+h1:hover{
+    text-shadow: 5px 10px 7px rgb(14, 193, 199);
+  }
+#definicion{
+    position: relative;
+    left: 450px;
+    font-size: 25px;
+    width: 600px;
+    text-align: center;
+    font-family: 'Gruppo',cursive;
+}
+dl dt{
+    font-size: 20px;
+    font-weight: 700;
+}
+.description{
+    font-size: 20px;
+    font-family: 'Gruppo',cursive;
+}
+.ejemplo{
+    width: 700px;
+    position: relative;
+    left: 400px;
+}
+.ejemplo textarea{
+    position: relative;
+    background:rgb(25, 124, 190);
+    border-color: rgb(17, 148, 235);
+    box-shadow: 1px 2px 3px #49443d;
+    border-style: solid;
+    border-radius: 15px;
+    font-family:'Special Elite', cursiva;
+    font-size: 20px;
+    text-align: left;
+    width: 647px;
+    height: 100px;
+    color: #f8f7f6;
+    
+}
+.mayusculas-data{
+    color: rgb(0, 195, 255);
+    font-size: 25px ;
+  }
+.mayusculas{
+    color: rgb(1, 161, 253);
+    font-size: 35px;
+  }
+.signos{
+    color: rgb(54, 209, 183);
+  }
+#example{
+    position: relative;
+    background:rgb(25, 124, 190);
+    border-color: rgb(17, 148, 235);
+    border-style: solid;
+    border-radius: 15px;
+    box-shadow: 1px 2px 3px #49443d;
+    font-family:'Special Elite', cursiva;
+    font-size: 20px;
+    text-align: left;
+    color: #ececec;
+    width: 268px;
+    height: 25px;
+    left: 400px;
+}
+#example2{
+    position: relative;
+    background:rgb(25, 124, 190);
+    border-color: rgb(17, 148, 235);
+    box-shadow: 1px 2px 3px #49443d;
+    font-family:'Special Elite', cursiva;
+    font-size: 20px;
+    text-align: left;
+    color: #fffefd;
+    left: 400px;
+    width: 656px;
+    height: 113px;
+    border-style: solid;
+    border-radius: 15px;
+}
+/* final de section y el article */
+/* inicio del footer */
+.linea{
+    position: relative;
+    top: 100px;
+    width: auto;
+    height: 1px;
+    background: #009bd8;
+
+}
+footer{
+    font-family:'Special Elite', cursiva;
+    display: inline-block;
+    position: relative;
+}
+
+.ganadorCopy{
+    position: relative;
+    left: 1200px;
+    font-size: 15px;
+  }
+footer ul a{
+      text-decoration: none;
+      font-size: 20px;
+      position: relative;
+      display: inline-block;
+      color: #83807c; 
+}
+footer ul{
+    position: relative;
+    top: -50px;
+  }
+footer ul #indice{
+  
+    display: inline-block;  
+    position: relative;
+    top: -20px;
+}
+h3{
+    margin-top: 2px;
+    
+}
+footer{
+    position: relative;
+    top: 100px;
+    
+}
+/* fin del footer */

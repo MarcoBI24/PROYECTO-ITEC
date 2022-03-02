@@ -1,0 +1,2 @@
+Hola profesor espero que este bien hago presente mi proyecto del curso espero que me ayude con la Beca estaria muy orgullo de mi y seguro cuando le muestre a mi mama tambien lo esté
+Gracias profesor por la enseñanaza que ha dado en el curso ^_^
